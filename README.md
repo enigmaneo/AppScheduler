@@ -1,3 +1,3 @@
 # AppScheduler
-To install run npm install
-To run run npm start npm start -s
+To install run ```npm install``` <br />
+To run ```npm start -s```
