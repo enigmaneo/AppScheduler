@@ -5,7 +5,7 @@ class AboutPage extends React.Component {
         return (
             <div>
                 <h1>About</h1>
-                <p>This app was created by Richard Montgomery (<a href="mailto:rmontgo@gmail.com">rmontgo@gmail.com</a></p>
+                <p>This app was created by Richard Montgomery (<a href="mailto:rmontgo@gmail.com">rmontgo@gmail.com</a>)</p>
             </div>
         );
     }
