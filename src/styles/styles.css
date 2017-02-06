@@ -1,0 +1,28 @@
+/* Styles */
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+tr.filled-slot {
+    background-color: #ea4d38 !important;
+}
+
+.padding-right-5 {
+    margin-right: 5px;
+}
+
+.cursor-hand {
+    cursor: pointer;
+}
